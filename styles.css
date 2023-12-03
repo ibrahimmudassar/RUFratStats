@@ -1,0 +1,27 @@
+body {
+  font-family: 'Charis SIL', serif;
+}
+
+.title-bar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    background-color: #cc0033;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.title-bar img {
+    max-width: 10%;
+    max-height: 10%;
+    display: block; /* remove extra space below image */
+    padding: 10px;
+  }
+
+.article img {
+    max-width: 90%;
+    display: block; /* remove extra space below image */
+    padding: 10px;
+  }

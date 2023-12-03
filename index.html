@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>RUFratStats</title>
+    <link rel="shortcut icon" type="image/x-icon" href="RUFratStats Favicon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Charis+SIL&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="title-bar">
+        <img src="https://www.rutgers.edu/sites/default/files/styles/3x4_one_third_full_default_1x/public/2020-02/lg_SHIELD_REVWHITE.jpg?h=6dade3ba&itok=y9QM3f8k"
+            alt="Logo">
+        <h1>RUFratStats</h1>
+    </div>
+    <div class="article">
+        <img src="total_ranked_desktop.png"><br>
+        <p>This data is ranked based on 4 criteria:</p>
+        <ul>
+            <li>Annual Report Score</li>
+            <li>Average Community Service Hours Per Member</li>
+            <li>Charitable Donations Per Member</li>
+            <li>Total Chapter GPA</li>
+        </ul>
+        <p>I took the mean of all 4 categories and plotted them and colored each chapter by its type</p>
+
+        <img src="donations_by_member.png"><br>
+        <p>This is the reason why I use Charitable Donations Per Member and not Total Charitable Donations. 10 member
+            chapters simply cannot compete with chapters 10x their size.</p>
+
+        <img src="charitable_donations_treemap.png"><br>
+        <p>The top 7 frats out of 73 total represent 55.8% of donations</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Chapter</th>
+                    <th>Charitable Donations</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Phi Sigma Sigma</td>
+                    <td>$49,246.00</td>
+                </tr>
+                <tr>
+                    <td>Chi Psi</td>
+                    <td>$37,297.33</td>
+                </tr>
+                <tr>
+                    <td>Phi Mu</td>
+                    <td>$36,844.26</td>
+                </tr>
+                <tr>
+                    <td>Delta Gamma</td>
+                    <td>$22,726.00</td>
+                </tr>
+                <tr>
+                    <td>Alpha Chi Omega</td>
+                    <td>$19,841.93</td>
+                </tr>
+                <tr>
+                    <td>Zeta Tau Alpha</td>
+                    <td>$19,342.62</td>
+                </tr>
+                <tr>
+                    <td>Sigma Delta Tau</td>
+                    <td>$16,164.73</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>These 7 contributed $201,462.87 out of a total of $361,269.48</p>
+
+    </div>
+
+    <a href="url">To view the raw data visit the GitHub repository for this page</a>
+
+</body>
+
+</html>

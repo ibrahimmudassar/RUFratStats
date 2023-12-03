@@ -1,0 +1,62 @@
+Chapter,Total Chapter Size,New Member Class Size,Total Chapter GPA,New Member GPA,Total Service Hours,Average Hours Per Member,Charitable Donations,Charitable Donations Per Member,Annual Report Score,Star Ranking,Chapter Type,Semester
+Sigma Chi,61,18,3.33,3.419,361,6,2200,36.06557377,71.62,1,Interfraternity Council,S23
+Zeta Beta Tau,49,11,3.389,3.483,2,0,1500,30.612244897959183,58.11,0,Interfraternity Council,S23
+Sigma Pi,15,3,3.19,2.702,3,0.1,1000,66.66666666666667,52.03,0,Interfraternity Council,S23
+Sigma Phi Epsilon,32,8,3.223,3.076,107.5,3,1150,35.9375,62.84,0,Interfraternity Council,S23
+Pi Kappa Phi,63,19,3.119,3.04,381.5,6,1050,16.666666666666668,81.08,2,Interfraternity Council,S23
+Phi Sigma Kappa,23,4,3.235,3.025,303,13,3239,140.82608695652175,79.73,2,Interfraternity Council,S23
+Phi Mu Delta,33,12,3.416,3.605,251,8,3123,94.63636363636364,75.68,2,Interfraternity Council,S23
+Phi Kappa Tau,33,2,3.105,3.516,2,0.1,1857.01,56.2730303,58.11,0,Interfraternity Council,S23
+Phi Kappa Psi,26,14,3.233,3.054,192,7,3126,120.23076923076923,72.3,1,Interfraternity Council,S23
+Phi Gamma Delta,21,7,3.152,3.144,19,1,850,40.476190476190474,72.3,1,Interfraternity Council,S23
+Delta Phi,88,18,3.244,3.083,292,3,875,9.943181818181818,62.16,0,Interfraternity Council,S23
+Sigma Alpha Epsilon,68,20,3.22,3.202,2,0,5376,79.05882352941177,91.67,3,Interfraternity Council,S23
+Phi Delta Chi,102,15,3.458,3.352,524,5,7478.21,73.31578431372549,81.08,2,Professional Fraternity Council,S23
+Alpha Kappa Lambda,14,2,2.769,3.711,36,3,1652.25,118.01785714285714,46.62,0,Interfraternity Council,S23
+Chi Phi,95,19,3.012,3.079,704,7,9125,96.05263157894737,75.68,2,Interfraternity Council,S23
+Alpha Phi Delta,17,10,2.735,2.996,0,0,0,0,35.81,0,Interfraternity Council,S23
+Delta Upsilon,23,4,3.008,3.098,123,5,3795,165,66.22,0,Interfraternity Council,S23
+Zeta Tau Alpha,135,36,3.415,3.453,843,6,19342.62,143.27866666666665,90.54,3,Panhellenic Council,S23
+Sigma Delta Tau,129,35,3.436,3.397,1126,9,16164.73,125.30798449612402,86.49,3,Panhellenic Council,S23
+Phi Sigma Sigma,138,33,3.42,3.472,1301,9,49246,356.8550724637681,78.38,2,Panhellenic Council,S23
+Phi Sigma Rho,36,7,3.303,3.015,104,3,2240.34,62.23166666666667,81.76,2,Panhellenic Council,S23
+Phi Mu,129,38,3.487,3.547,1615.5,13,36844.26,285.6144186046512,90.54,3,Panhellenic Council,S23
+Omega Phi Alpha,72,17,3.611,3.572,110,2,4516.8,62.733333333333334,69.59,0,Panhellenic Council,S23
+Gamma Phi Beta,132,35,3.385,3.333,847.5,6,15089.72,114.3160606060606,78.38,2,Panhellenic Council,S23
+Delta Gamma,99,27,3.508,3.426,1006,10,22726,229.55555555555554,78.38,2,Panhellenic Council,S23
+Alpha Omega Epsilon,30,8,3.389,3.277,93,3,1665.5,55.516666666666666,83.78,2,Panhellenic Council,S23
+Alpha Gamma Delta,114,33,3.436,3.313,797.5,8,7053,61.86842105263158,86.49,3,Panhellenic Council,S23
+Alpha Chi Omega,130,41,3.447,3.397,1707,13,19841.93,152.63023076923076,89.86,3,Panhellenic Council,S23
+Theta Tau,66,14,3.302,2.987,330,7,11652.47,176.55257575757574,56.76,0,Professional Fraternity Council,S23
+Phi Sigma Pi,65,16,3.731,3.73,65,1,2938.6,45.20923076923077,91.89,3,Professional Fraternity Council,S23
+Delta Chi,38,10,3.237,3.053,321,8,1739.3,45.77105263157895,79.05,2,Interfraternity Council,S23
+Phi Delta Epsilon,81,17,3.64,3.565,981,12,4008,49.48148148148148,70.27,1,Professional Fraternity Council,S23
+Chi Upsilon Sigma,5,2,3.489,3.388,35,7,105,21,77.03,2,Multicultural Greek Council,S23
+Phi Chi Theta,76,18,3.51,3.549,300,4,4421.06,58.17184210526316,76.35,2,Professional Fraternity Council,S23
+Nu Alpha Phi,10,5,2.713,2.65,30,3,0,0,91.22,3,Multicultural Greek Council,S23
+Lambda Kappa Sigma,50,5,3.366,3.647,355,7,4436.76,88.7352,91.22,3,Professional Fraternity Council,S23
+Delta Sigma Pi,90,15,3.562,3.689,272,3,10763.82,119.598,54.05,0,Professional Fraternity Council,S23
+Alpha Zeta,58,22,3.479,3.411,292,5,4582.44,79.00758620689655,80.41,2,Professional Fraternity Council,S23
+Alpha Phi Omega,69,15,3.342,3.437,5558,81,7586.13,109.94391304347826,70.27,1,Professional Fraternity Council,S23
+Mu Beta Psi,19,2,3.531,2.981,266,14,1009.4,53.126315789473686,81.76,2,Professional Fraternity Council,S23
+Sigma Lambda Upsilon,3,1,3.378,3,4.5,2,0,0,54.73,0,Multicultural Greek Council,S23
+Phi Beta Sigma,5,1,2.761,2.571,0,0,15,3,83.78,2,Multicultural Greek Council,S23
+Sigma Lambda Gamma,7,1,3.005,3.625,103,15,12.53,1.7899999999999998,70.95,1,Multicultural Greek Council,S23
+Chi Psi,85,19,3.419,3.456,462,5,37297.33,438.79211764705883,79.73,2,Interfraternity Council,S23
+Sigma Psi Zeta,18,4,3.511,3.395,143,8,910.33,50.57388888888889,75.68,2,Multicultural Greek Council,S23
+Alpha Sigma Phi,42,12,3.222,3.357,199,5,857.5,20.416666666666668,68.92,0,Interfraternity Council,S23
+Lambda Upsilon Lambda,13,6,2.86,2.968,4,0.3,0,0,68.92,0,Multicultural Greek Council,S23
+Lambda Theta Phi,12,5,2.631,2.578,0,0,0,0,64.86,0,Multicultural Greek Council,S23
+Lambda Tau Omega,9,7,2.916,2.793,60,7,402.58,44.73111111111111,72.3,1,Multicultural Greek Council,S23
+Lambda Pi Chi,12,6,2.825,2.57,0,0,0,0,76.35,2,Multicultural Greek Council,S23
+Kappa Phi Lambda,26,6,3.189,2.994,140,5,883,33.96153846153846,95.27,4,Multicultural Greek Council,S23
+Kappa Phi Gamma,18,4,2.959,3.206,117,7,6463,359.05555555555554,71.62,1,Multicultural Greek Council,S23
+Iota Phi Theta,8,5,2.111,2.03,35,4,0,0,62.84,0,Multicultural Greek Council,S23
+Iota Nu Delta,27,8,3.228,2.987,0,0,0,0,51.35,0,Multicultural Greek Council,S23
+Delta Sigma Theta,16,11,3.2,3.232,89,6,475,29.6875,97.3,4,Multicultural Greek Council,S23
+Delta Sigma Iota,40,13,2.769,2.618,0,0,50,1.25,52.7,0,Multicultural Greek Council,S23
+Delta Phi Omega,22,4,3.115,3.234,0,0,600,27.272727272727273,77.7,2,Multicultural Greek Council,S23
+Delta Kappa Delta,11,1,3.316,3.875,249,23,0,0,79.73,2,Multicultural Greek Council,S23
+Phi Alpha Delta,43,14,3.664,3.795,145.5,3,50,1.1627906976744187,72.97,1,Professional Fraternity Council,S23
+Alpha Phi Alpha,12,2,2.868,2.859,36,3,0,0,90.54,3,Multicultural Greek Council,S23
+alpha Kappa Delta Phi,22,4,3.151,3.508,153,7,0,0,87.16,3,Multicultural Greek Council,S23
