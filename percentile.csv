@@ -1,62 +1,62 @@
-Chapter,Chapter Type,Total Chapter GPA,Average Hours Per Member,Annual Report Score,Charitable Donations Per Member,Total
-Alpha Phi Delta,Interfraternity Council,7,9,2,10,7
-Lambda Theta Phi,Multicultural Greek Council,4,9,23,10,11.5
-Delta Sigma Iota,Multicultural Greek Council,11,9,9,21,12.5
-Iota Nu Delta,Multicultural Greek Council,44,9,5,10,17
-Lambda Upsilon Lambda,Multicultural Greek Council,15,20,27,10,18
-Iota Phi Theta,Multicultural Greek Council,2,43,21,10,19
-Lambda Pi Chi,Multicultural Greek Council,13,9,51,10,20.75
-Sigma Lambda Upsilon,Multicultural Greek Council,62,25,12,10,27.25
-Phi Kappa Tau,Interfraternity Council,26,17,16,55,28.5
-Phi Beta Sigma,Multicultural Greek Council,9,9,77,25,30
-Sigma Pi,Interfraternity Council,36,17,7,63,30.75
-Delta Phi Omega,Multicultural Greek Council,28,9,55,33,31.25
-Alpha Kappa Lambda,Interfraternity Council,11,34,4,78,31.75
-Zeta Beta Tau,Interfraternity Council,66,9,16,36,31.75
-Delta Phi,Interfraternity Council,50,34,18,26,32
-Sigma Phi Epsilon,Interfraternity Council,42,34,21,39,34
-Phi Gamma Delta,Interfraternity Council,33,22,41,42,34.5
-Nu Alpha Phi,Multicultural Greek Council,5,34,91,10,35
-Alpha Sigma Phi,Interfraternity Council,41,50,27,29,36.75
-Alpha Phi Alpha,Multicultural Greek Council,17,34,87,10,37
-Lambda Tau Omega,Multicultural Greek Council,18,69,41,44,43
-Sigma Lambda Gamma,Multicultural Greek Council,21,95,34,23,43.25
-Pi Kappa Phi,Interfraternity Council,29,58,70,28,46.25
-Delta Upsilon,Interfraternity Council,23,50,25,89,46.75
-alpha Kappa Delta Phi,Multicultural Greek Council,31,69,82,10,48
-Sigma Chi,Interfraternity Council,57,58,37,41,48.25
-Phi Alpha Delta,Professional Fraternity Council,97,34,44,20,48.75
-Sigma Alpha Epsilon,Interfraternity Council,39,9,94,68,52.5
-Omega Phi Alpha,Panhellenic Council,94,25,29,62,52.5
-Chi Phi,Interfraternity Council,25,69,47,73,53.5
-Delta Sigma Pi,Professional Fraternity Council,92,34,10,79,53.75
-Kappa Phi Lambda,Multicultural Greek Council,34,50,97,37,54.5
-Phi Sigma Rho,Panhellenic Council,54,34,74,60,55.5
-Kappa Phi Gamma,Multicultural Greek Council,20,69,37,97,55.75
-Theta Tau,Professional Fraternity Council,52,69,13,90,56
-Delta Kappa Delta,Multicultural Greek Council,55,97,65,10,56.75
-Delta Sigma Theta,Multicultural Greek Council,37,58,99,34,57
-Alpha Omega Epsilon,Panhellenic Council,66,34,77,54,57.75
-Phi Kappa Psi,Interfraternity Council,45,69,41,81,59
-Delta Chi,Interfraternity Council,49,78,62,47,59
-Chi Upsilon Sigma,Multicultural Greek Council,84,69,54,31,59.5
-Phi Chi Theta,Professional Fraternity Council,87,43,51,57,59.5
-Gamma Phi Beta,Panhellenic Council,63,58,58,76,63.75
-Phi Sigma Pi,Professional Fraternity Council,99,22,95,45,65.25
-Alpha Phi Omega,Professional Fraternity Council,58,99,32,74,65.75
-Phi Delta Epsilon,Professional Fraternity Council,95,87,32,49,65.75
-Phi Delta Chi,Professional Fraternity Council,79,50,70,65,66
-Sigma Psi Zeta,Multicultural Greek Council,89,78,47,50,66
-Alpha Zeta,Professional Fraternity Council,81,50,68,66,66.25
-Phi Mu Delta,Interfraternity Council,70,78,47,71,66.5
-Chi Psi,Interfraternity Council,71,50,65,99,71.25
-Phi Sigma Kappa,Interfraternity Council,47,90,65,84,71.5
-Lambda Kappa Sigma,Professional Fraternity Council,60,69,91,70,72.5
-Alpha Gamma Delta,Panhellenic Council,75,78,80,58,72.75
-Zeta Tau Alpha,Panhellenic Council,68,58,87,86,74.75
-Phi Sigma Sigma,Panhellenic Council,73,83,58,95,77.25
-Mu Beta Psi,Professional Fraternity Council,90,94,74,52,77.5
-Sigma Delta Tau,Panhellenic Council,75,83,80,82,80
-Delta Gamma,Panhellenic Council,86,86,58,92,80.5
-Alpha Chi Omega,Panhellenic Council,78,90,84,87,84.75
-Phi Mu,Panhellenic Council,82,90,87,94,88.25
+Rank,Chapter,Chapter Type,Total Chapter GPA,Average Hours Per Member,Annual Report Score,Charitable Donations Per Member,Total
+1,Phi Mu,Panhellenic Council,82,90,87,94,88.25
+2,Alpha Chi Omega,Panhellenic Council,78,90,84,87,84.75
+3,Delta Gamma,Panhellenic Council,86,86,58,92,80.5
+4,Sigma Delta Tau,Panhellenic Council,75,83,80,82,80
+5,Mu Beta Psi,Professional Fraternity Council,90,94,74,52,77.5
+6,Phi Sigma Sigma,Panhellenic Council,73,83,58,95,77.25
+7,Zeta Tau Alpha,Panhellenic Council,68,58,87,86,74.75
+8,Alpha Gamma Delta,Panhellenic Council,75,78,80,58,72.75
+9,Lambda Kappa Sigma,Professional Fraternity Council,60,69,91,70,72.5
+10,Phi Sigma Kappa,Interfraternity Council,47,90,65,84,71.5
+11,Chi Psi,Interfraternity Council,71,50,65,99,71.25
+12,Phi Mu Delta,Interfraternity Council,70,78,47,71,66.5
+13,Alpha Zeta,Professional Fraternity Council,81,50,68,66,66.25
+14,Phi Delta Chi,Professional Fraternity Council,79,50,70,65,66
+15,Sigma Psi Zeta,Multicultural Greek Council,89,78,47,50,66
+16,Alpha Phi Omega,Professional Fraternity Council,58,99,32,74,65.75
+17,Phi Delta Epsilon,Professional Fraternity Council,95,87,32,49,65.75
+18,Phi Sigma Pi,Professional Fraternity Council,99,22,95,45,65.25
+19,Gamma Phi Beta,Panhellenic Council,63,58,58,76,63.75
+20,Chi Upsilon Sigma,Multicultural Greek Council,84,69,54,31,59.5
+21,Phi Chi Theta,Professional Fraternity Council,87,43,51,57,59.5
+22,Phi Kappa Psi,Interfraternity Council,45,69,41,81,59
+23,Delta Chi,Interfraternity Council,49,78,62,47,59
+24,Alpha Omega Epsilon,Panhellenic Council,66,34,77,54,57.75
+25,Delta Sigma Theta,Multicultural Greek Council,37,58,99,34,57
+26,Delta Kappa Delta,Multicultural Greek Council,55,97,65,10,56.75
+27,Theta Tau,Professional Fraternity Council,52,69,13,90,56
+28,Kappa Phi Gamma,Multicultural Greek Council,20,69,37,97,55.75
+29,Phi Sigma Rho,Panhellenic Council,54,34,74,60,55.5
+30,Kappa Phi Lambda,Multicultural Greek Council,34,50,97,37,54.5
+31,Delta Sigma Pi,Professional Fraternity Council,92,34,10,79,53.75
+32,Chi Phi,Interfraternity Council,25,69,47,73,53.5
+33,Sigma Alpha Epsilon,Interfraternity Council,39,9,94,68,52.5
+34,Omega Phi Alpha,Panhellenic Council,94,25,29,62,52.5
+35,Phi Alpha Delta,Professional Fraternity Council,97,34,44,20,48.75
+36,Sigma Chi,Interfraternity Council,57,58,37,41,48.25
+37,alpha Kappa Delta Phi,Multicultural Greek Council,31,69,82,10,48
+38,Delta Upsilon,Interfraternity Council,23,50,25,89,46.75
+39,Pi Kappa Phi,Interfraternity Council,29,58,70,28,46.25
+40,Sigma Lambda Gamma,Multicultural Greek Council,21,95,34,23,43.25
+41,Lambda Tau Omega,Multicultural Greek Council,18,69,41,44,43
+42,Alpha Phi Alpha,Multicultural Greek Council,17,34,87,10,37
+43,Alpha Sigma Phi,Interfraternity Council,41,50,27,29,36.75
+44,Nu Alpha Phi,Multicultural Greek Council,5,34,91,10,35
+45,Phi Gamma Delta,Interfraternity Council,33,22,41,42,34.5
+46,Sigma Phi Epsilon,Interfraternity Council,42,34,21,39,34
+47,Delta Phi,Interfraternity Council,50,34,18,26,32
+48,Alpha Kappa Lambda,Interfraternity Council,11,34,4,78,31.75
+49,Zeta Beta Tau,Interfraternity Council,66,9,16,36,31.75
+50,Delta Phi Omega,Multicultural Greek Council,28,9,55,33,31.25
+51,Sigma Pi,Interfraternity Council,36,17,7,63,30.75
+52,Phi Beta Sigma,Multicultural Greek Council,9,9,77,25,30
+53,Phi Kappa Tau,Interfraternity Council,26,17,16,55,28.5
+54,Sigma Lambda Upsilon,Multicultural Greek Council,62,25,12,10,27.25
+55,Lambda Pi Chi,Multicultural Greek Council,13,9,51,10,20.75
+56,Iota Phi Theta,Multicultural Greek Council,2,43,21,10,19
+57,Lambda Upsilon Lambda,Multicultural Greek Council,15,20,27,10,18
+58,Iota Nu Delta,Multicultural Greek Council,44,9,5,10,17
+59,Delta Sigma Iota,Multicultural Greek Council,11,9,9,21,12.5
+60,Lambda Theta Phi,Multicultural Greek Council,4,9,23,10,11.5
+61,Alpha Phi Delta,Interfraternity Council,7,9,2,10,7
