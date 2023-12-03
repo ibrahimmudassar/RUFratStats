@@ -1,5 +1,6 @@
 body {
   font-family: 'Charis SIL', serif;
+  padding: 10px;
 }
 
 .title-bar {
@@ -25,3 +26,7 @@ body {
     display: block; /* remove extra space below image */
     padding: 10px;
   }
+
+.tables {
+  padding: 20px 10px 20px 10px;
+}

@@ -10,14 +10,34 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Charis+SIL&display=swap" rel="stylesheet">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css">
-    <link href="https://cdn.datatables.net/1.13.7/css/dataTables.bootstrap5.min.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.css" />
-    <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.js"></script>
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
         integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="script.js"></script>
+    <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css"
+        href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.13.3/css/dataTables.bootstrap5.min.css" />
+    <link href="https://code.jquery.com/jquery-3.5.1.js" />
+    <script src="https://cdn.datatables.net/1.13.3/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.3/js/jquery.dataTables.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.21/jquery.csv.min.js"
+        integrity="sha512-Y8iWYJDo6HiTo5xtml1g4QqHtl/PO1w+dmUpQfQSOTqKNsMhExfyPN2ncNAe9JuJUSKzwK/b6oaNPop4MXzkwg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdn.datatables.net/1.13.3/js/dataTables.bootstrap5.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/showdown@2.1.0/dist/showdown.min.js"></script>
+    <link rel="stylesheet" type="text/css"
+        href="https://cdn.datatables.net/responsive/2.4.1/css/responsive.dataTables.min.css" />
+    <link rel="stylesheet" type="text/css"
+        href="https://cdn.datatables.net/searchbuilder/1.4.2/css/searchBuilder.bootstrap5.min.css" />
+    <link rel="stylesheet" type="text/css"
+        href="https://cdn.datatables.net/datetime/1.4.0/css/dataTables.dateTime.min.css" />
+    <script src="https://cdn.datatables.net/responsive/2.4.1/js/dataTables.responsive.min.js"></script>
+    <script src="https://cdn.datatables.net/searchbuilder/1.4.2/js/dataTables.searchBuilder.min.js"></script>
+    <script src="https://cdn.datatables.net/searchbuilder/1.4.2/js/searchBuilder.bootstrap5.min.js"></script>
+    <script src="https://cdn.datatables.net/datetime/1.4.0/js/dataTables.dateTime.min.js"></script>
 </head>
 
 <body>
@@ -87,25 +107,52 @@
 
     </div>
 
+    <div class="tables">
+        <h1>Chapters Ranked By Percentile</h1>
+        <table id="percentile" class="table table-hover table-striped">
+            <thead class="table-dark">
+                <tr>
+                    <th>Rank</th>
+                    <th>Chapter</th>
+                    <th>Chapter Type</th>
+                    <th>Total Chapter GPA</th>
+                    <th>Average Hours Per Member</th>
+                    <th>Annual Report Score</th>
+                    <th>Charitable Donations Per Member</th>
+                    <th>Total</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+
+        <h1>Chapters Raw Data</h1>
+        <table id="chapters_raw" class="table table-hover table-striped">
+            <thead class="table-dark">
+                <tr>
+                    <th>Chapter</th>
+                    <th>Total Chapter Size</th>
+                    <th>New Member Class Size</th>
+                    <th>Total Chapter GPA</th>
+                    <th>New Member GPA</th>
+                    <th>Total Service Hours</th>
+                    <th>Average Hours Per Member</th>
+                    <th>Charitable Donations</th>
+                    <th>Charitable Donations Per Member</th>
+                    <th>Annual Report Score</th>
+                    <th>Star Ranking</th>
+                    <th>Chapter Type</th>
+                    <th>Semester</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
     <a href="https://github.com/ibrahimmudassar/RUFratStats">To view the raw data, visit the GitHub repository for this
         page</a>
 
-    <table id="mainTable" class="table table-hover table-striped">
-        <thead class="table-dark">
-            <tr>
-                <th>Rank</th>
-                <th>Chapter</th>
-                <th>Chapter Type</th>
-                <th>Total Chapter GPA</th>
-                <th>Average Hours Per Member</th>
-                <th>Charitable Donations Per Member</th>
-                <th>Total</th>
-            </tr>
-        </thead>
-        <tbody></tbody>
-    </table>
-
     <p>By Ibrahim Mudassar</p>
+    <script src="script.js"></script>
 </body>
 
 </html>
